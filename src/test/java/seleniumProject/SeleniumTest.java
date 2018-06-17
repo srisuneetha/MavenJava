@@ -22,5 +22,11 @@ public class SeleniumTest {
 	public void testcase4(){
 		System.out.println("testcase4 is tested. ");
 	}
+	
+	@Test
+	public void testcase5(){
+		System.out.println("testcase5 is tested. ");
+	}
+
 
 }
